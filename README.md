@@ -5,7 +5,7 @@
 (2) Su sensörünün S kısmı Esp32 nin 34 numaralı pinine
 (3) Su sensörünün - kısmı GND pinine
 (4) esp32kod.ino (Esp Kodunun) içinde ki modem ssid ve modem password kısımlarına kendi
-modem adı ve şifrenizi yazıp derleyiniz elektrik verdiğinizde otomatik bağlanıp çalışmaya başlayacaktır
+modem adı ve şifrenizi yazıp derleyiniz ve kodu esp32 ye atınız elektrik verdiğinizde otomatik bağlanıp çalışmaya başlayacaktır
 
 (#) Android tarafı C# .NET MAUI ile geliştirilmiştir isterseniz apkindir.txt de hazır apk dosyası vardır isterseniz de repoda ki uygulamanın kaynak kodlarını (MainPage.xaml MainPage.xaml.cs MauiProgram.cs App.cs) alıp düzenleyip derleyebilirsiniz
 
