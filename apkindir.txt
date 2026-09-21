@@ -1,0 +1,4 @@
+Uygulama linki: https://www.mediafire.com/file/dzy0ska2347s2dr/fistiksutakip.apk/file
+
+C# .NET MAUI ile Android ortamı için geliştirilmiştir
+64 bit cihazlar içindir ve sürüm gereksinimi en az android 7
